@@ -10,11 +10,17 @@
 }
 .majorContainer{
     border:solid lime;
-    
+
     
 }
 .square{
     height:90px;
     width:90px;
     border:solid blue;
+}
+.circle{
+    border:solid purple;
+    height:90px;
+    width:90px;
+    border-radius:50%;
 }
