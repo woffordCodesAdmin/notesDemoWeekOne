@@ -1,0 +1,20 @@
+
+.box{
+    border:solid red;
+    height:90px;
+    width:90px;
+
+}
+#boxOne{
+    margin-bottom:25px;
+}
+.majorContainer{
+    border:solid lime;
+    
+    
+}
+.square{
+    height:90px;
+    width:90px;
+    border:solid blue;
+}
