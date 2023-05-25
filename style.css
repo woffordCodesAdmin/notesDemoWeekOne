@@ -24,3 +24,12 @@
     width:90px;
     border-radius:50%;
 }
+.classroom{
+    border:solid red;
+    border-radius:12px;
+    width:60%;
+    margin:33px;
+}
+.text{
+    text-align:right;
+}
